@@ -1,0 +1,96 @@
+🗽 NYC Airbnb Vacation Rental Market Analysis
+📊 Project Overview
+This project analyzes the vacation rental market in Manhattan, NYC to identify the most profitable neighborhoods and property types for potential investment. It leverages Airbnb listing data to uncover high-performing areas, pricing trends, and unit preferences. The analysis was conducted to support data-driven decisions for property investors and hosts looking to optimize rental income in Manhattan.
+
+✨ Key Features & Functionality
+In-depth analysis of neighborhood profitability across Manhattan
+
+Pivot table-driven insights on:
+
+Gross monthly income by listing
+
+Unit type performance
+
+Neighborhood trends
+
+Visualizations showing top neighborhoods and unit preferences
+
+Strategic investment recommendations based on top-performing listings
+
+🧠 Why This Project?
+Manhattan is a highly competitive and diverse real estate market. This project was created to:
+
+Identify the best neighborhoods for short-term rental investments
+
+Uncover which property types yield the highest return
+
+Highlight top listings as benchmarks for pricing and income potential
+
+Guide stakeholders in making informed decisions backed by data
+
+📈 Summary of Findings
+🔝 Top 10 Most Profitable Neighborhoods
+Lower East Side
+
+Hell’s Kitchen
+
+Harlem
+
+Midtown
+
+Upper West Side
+
+Chelsea
+
+East Village
+
+East Harlem
+
+West Village
+
+Upper East Side
+
+🏘️ Preferred Property Type
+One-bedroom units dominate across most high-performing areas.
+
+Studios are most in demand in Midtown, presenting an alternative strategy for investors.
+
+💰 Highest-Grossing Listings
+Listing ID	Gross Monthly Income
+49946551	$29,940
+44267714	$26,100
+6833395	$22,800
+
+These listings demonstrate the premium pricing potential in the Manhattan vacation rental market.
+
+✅ Recommendations
+Invest in one-bedroom units in the top-performing neighborhoods.
+
+Consider studios in Midtown, where smaller units have strong demand.
+
+Benchmark top listings to understand pricing models and optimize listing performance.
+
+🛠️ Tools & Technologies Used
+Microsoft Excel (Pivot Tables, Charts)
+
+Data Cleaning & Analysis
+
+Exploratory Data Analysis (EDA)
+
+📸 Visuals
+Below are key screenshots from the analysis:
+
+Pivot chart showing highest-earning neighborhoods
+
+https://drive.google.com/file/d/19xRN7eBMS7MofrPk4FVSTi3ngcgegWQx/view?usp=sharing
+
+Breakdown of property type preferences by neighborhood
+
+https://drive.google.com/file/d/15ZPWZ-tCROnoNwURk7K8ziW1swXwKl2Y/view?usp=sharing
+
+🔗 Project Access
+
+📁 Google Sheet Workbook: https://docs.google.com/spreadsheets/d/1ZdkgqQmfIro6Fu8Vw4beThPD1Hw9ecZCrzcgkF14Jd8/edit?usp=sharing
+
+📬 Contact
+For questions or collaboration inquiries, feel free to reach out!
