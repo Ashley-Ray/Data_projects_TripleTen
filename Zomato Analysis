@@ -1,0 +1,90 @@
+🍽️ Zomato Sales Performance Analysis
+
+📋 Project Description
+This project presents an in-depth sales analysis using historical Zomato platform data, visualized through an interactive Tableau dashboard. The core objective was to uncover sales performance patterns, identify top-selling restaurants and menu items, and provide actionable business recommendations to enhance profitability and customer engagement.
+
+🧠 Why This Project?
+Food delivery platforms like Zomato thrive on high-volume, data-rich environments. Yet, without proper analysis, strategic blind spots can hinder growth. This project was created to:
+
+Understand which restaurants and items drive the most revenue
+
+Analyze temporal sales patterns to inform marketing campaigns
+
+Highlight consumer behavior trends that shape platform strategy
+
+Offer recommendations to support decision-making and retention initiatives
+
+⚙️ Features & Focus Areas
+The Tableau dashboard includes six core modules:
+
+🏪 Sales by Restaurant – Ranking of revenue-generating restaurants
+
+🍲 Most Ordered Items – Insights into customer food preferences
+
+📅 Sales by Day of the Week – Temporal patterns in ordering habits
+
+🕐 Hourly Sales Trends – Peak order times and customer activity windows
+
+📈 Total Sales Over Time – Business performance trend analysis
+
+💰 Average Order Value – Revenue efficiency per transaction
+
+🧠 Key Findings & Insights
+🏆 Top Restaurants
+Jayhind Sweets led with ₹134 billion in total sales.
+
+Krishna Food, Huber & Holly, and WoW China followed closely.
+
+These brands exhibit strong loyalty, operational efficiency, and consistent customer demand.
+
+Recommendation: Deepen partnerships, analyze their pricing/menu structures, and apply best practices across lower-performing vendors.
+
+🍚 Most Ordered Items
+Jeera Rice topped the list with 84,000+ orders, followed by Vegetable Fried Rice, Paneer Butter Masala, and French Fries.
+
+Predominance of vegetarian, rice-based dishes reflects regional preference for comfort and affordability.
+
+Recommendation: Promote popular dishes through combo offers, loyalty perks, and highlighted placement in menus.
+
+📅 Day-of-Week Sales Trends
+Friday unsurprisingly led with ₹570B+ in sales.
+
+Tuesday came second—beating both Saturday and Sunday.
+
+Recommendation: Launch Tuesday-specific promotions, validate corporate/work-from-home ordering patterns, and avoid over-prioritizing weekends.
+
+🕐 Time-Based Sales Behavior
+Peak order hours centered around lunch and dinner times, informing optimal ad/promo scheduling.
+
+📉 Sales Over Time & AOV
+January 2018 showed a significant sales spike followed by a sustained decline.
+
+Average Order Value also mirrored this downward trend.
+
+Recommendation: Investigate customer churn, market saturation, and promotional effectiveness during the 2018 peak; relaunch seasonal or loyalty campaigns based on past success patterns.
+
+🛠 Tools & Technologies Used
+Microsoft Excel – Data preprocessing and structure cleaning
+
+Tableau Public – Interactive dashboard creation
+
+Time Series Analysis – For detailed insights and trends
+
+📸 Visual Examples
+📎 https://drive.google.com/file/d/1t5BFNDP5nxYHoVJz1P4Uoz-F6w1Ndc8F/view?usp=sharing
+
+🔗 Project Access
+📊 Live Tableau Dashboard: https://public.tableau.com/app/profile/ashley.ray7387/viz/ZomatoSalesAnalysis_17473389696850/Dashboard2
+
+✅ Recommendations Summary
+🔍 Strengthen and replicate successful partnerships with top-tier restaurants
+
+🎯 Align promotions with actual sales trends (e.g., Tuesday spikes)
+
+📈 Re-evaluate customer acquisition and loyalty efforts post-2018
+
+🔁 Use dashboards like this to monitor behavior continuously and adjust strategies in real time
+
+📬 Contact
+For questions, feedback, or collaboration inquiries, feel free to reach out!
+
